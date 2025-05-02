@@ -1,6 +1,6 @@
 Moin, ich bin Martin
 
-Grafiker in Weiterbildung mit Fokus auf **Frontend-Entwicklung**.  
+Grafiker in Weiterbildung zum Web-Devoleper (DCI – Digital Career Institute GmbH) - mit Fokus auf **Frontend-Entwicklung**.  
 
 
 ---
