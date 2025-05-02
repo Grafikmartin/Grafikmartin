@@ -1,7 +1,7 @@
 Moin, ich bin Martin
 
 Grafiker in Weiterbildung mit Fokus auf **Frontend-Entwicklung**.  
-Mein Ziel: funktionales, zugängliches Webdesign mit einer klaren Gestaltung.
+
 
 ---
 
