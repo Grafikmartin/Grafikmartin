@@ -12,6 +12,7 @@ Grafiker in Weiterbildung zum Web-Devoleper (DCI – Digital Career Institute Gm
 - <a href="https://grafikmartin.github.io/mb/ZasterZen.html" target="_blank">💰 ZasterZen</a> – Budgetplanung 
 - <a href="https://grafikmartin.github.io/Space-Invaders/" target="_blank">👾 Space Invaders</a> – Rette unsere Erde – sie zählt auf dich!
 - <a href="https://grafikmartin.github.io/pingpong/" target="_blank">🏓 Ping Pong</a> – Kleines Spiel im Retro-Stil
+- <a href="https://grafikmartin.github.io/snake/" target="_blank">🐍 Snake</a> – Der Klassiker vom Nokiahandy 
 
 ---
 
