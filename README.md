@@ -16,5 +16,5 @@ Ausgewählte Projekte
 
 ---
 
-👉 Weitere Projekte:  
-<a href="https://grafikmartin.github.io/mb/portfolio.html" target="_blank">📁 grafikmartin.github.io/mb/portfolio.html</a>
+Weitere Projekte:  
+<a href="https://grafikmartin.github.io/mb/portfolio.html" target="_blank">grafikmartin.github.io/mb/portfolio.html</a>
